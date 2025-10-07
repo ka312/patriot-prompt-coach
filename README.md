@@ -6,7 +6,7 @@
 
 ---
 
-![How It Works](2.png)
+![How It Works]
 
 ## Features
 
