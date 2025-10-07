@@ -67,11 +67,7 @@ We welcome contributions from the community!
 
 ![Community & Support](6.png)
 
-## License
 
-This project is licensed under the MIT License.
-
----
 
 ## Description
 
