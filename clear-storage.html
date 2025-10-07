@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clear Storage</title>
+</head>
+<body>
+    <h1>Storage Cleared!</h1>
+    <p>Refresh the app to see the login page.</p>
+    <script>
+        localStorage.removeItem('patriot_logged_in');
+        localStorage.removeItem('patriot_chats');
+        setTimeout(() => {
+            window.location.href = 'http://localhost:5173';
+        }, 1000);
+    </script>
+</body>
+</html>
+
