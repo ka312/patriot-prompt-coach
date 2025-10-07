@@ -1,12 +1,12 @@
 # Patriot Prompt Coach
 
-![Banner](images/1.png)
+![Banner](1.png)
 
 **Patriot Prompt Coach** is an AI-powered prompt coaching tool designed to help students learn effective AI prompting through interactive rewriting and feedback. By providing intelligent suggestions and real-time analysis, the tool empowers users to craft better prompts, deepen their understanding of prompt engineering, and enhance their creativity in interacting with AI systems.
 
 ---
 
-![How It Works](images/2.png)
+![How It Works](2.png)
 
 ## Features
 
@@ -18,7 +18,7 @@
 
 ---
 
-![Interactive Feedback](images/3.png)
+![Interactive Feedback](3.png)
 
 ## Why Use Patriot Prompt Coach?
 
@@ -28,7 +28,7 @@
 
 ---
 
-![Lesson Example](images/4.png)
+![Lesson Example](4.png)
 
 ## Getting Started
 
@@ -52,7 +52,7 @@
 
 ---
 
-![Student Progress](images/5.png)
+![Student Progress](5.png)
 
 ## Contributing
 
@@ -65,7 +65,7 @@ We welcome contributions from the community!
 
 ---
 
-![Community & Support](images/6.png)
+![Community & Support](6.png)
 
 ## License
 
